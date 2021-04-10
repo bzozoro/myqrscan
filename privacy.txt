@@ -1,0 +1,21 @@
+Bienvenue dans MyQRScan !!!
+
+1 - Concept général de l’application
+MyQRSCan App est une application conçue spécifiquement pour gérer des QR Codes et de Bar Codes. L’application est capable de scanner n’importe quelle type de données gravées en QR ou en Bar. L’utilisateur peut enregistrer, partager ou ouvrir (si c’est un lien http(s)) les codes lue, l’enregistrement des données est en local dans l’appareil sans avoir interagir avec des API ou Web Service externe de l’App, aucun transport de données à travers internet, vers un serveur serveur ou autre support de stockage n’est intégré dans l'appli.
+
+2 - Collecte de données et sécurité des utilisateurs
+L’application MyQRScan ne collecte aucune données des utilisateurs que ce soit automatique ou manuel (processus en arrière plan, entrer dans un input ou au click d’un bouton)
+
+3 - Achat et récompense dans l’application
+L’application est totalement gratuite. Il n’y a aucun achat ou type de récompense à l’interne de l'application. Aucun système de paiement ou formulaire de demande d’informations de paiement en ligne n’est intégré dans l’application.
+
+4 - Publicité
+L’application contient des publicités diffusées par Google AdMob. Seules les publicités de type Banner et Interstitial y sont présentes pour le moment.
+
+5 - Permissions
+L’application va utiliser votre caméra pour pouvoir scanner des QR ou Bar Code. Elle utilise aussi votre stockage pour enregistrer vos données(QR ou Bar Code).
+
+6 - Remarque
+Parce que l’application est totalement gratuite et si vous l’avez trouvé utile, ou l’app vous a aidé, tout don est accepté. Si vous n'avez aucun moyen pour nous soutenir, il y en a un, très simple, veuillez cliquer sur une des publicités et vous nous avez déjà envoyé un don. 
+
+Merci pour votre visite et de nous supporter, n'hésitez pas à noter l’application, commenter sur le store ou contactez-nous pour aider à améliorer l’application.
